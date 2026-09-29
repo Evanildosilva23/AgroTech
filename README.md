@@ -1,4 +1,5 @@
-AgroTech: Sistema de Irrigação Inteligente 
+AgroTech: Sistema de Irrigação Inteligente
+
 O AgroTech é um software desenvolvido para atender pequenos produtores rurais que enfrentam dificuldades diárias devido ao uso de métodos empíricos e baseados no "achismo" para a irrigação de suas lavouras. A ausência de controle preciso sobre a quantidade de água gera desperdícios severos de recursos hídricos e energia elétrica, além de provocar a lixiviação de nutrientes do solo e comprometer a produtividade das safras.
 
 O principal objetivo da solução é oferecer uma plataforma acessível que una o monitoramento agrícola em tempo real através de sensores de umidade baseados em IoT (Internet das Coisas) a uma interface web e a um aplicativo móvel. Dessa forma, o agricultor ganha autonomia e precisão para gerenciar sua produção de qualquer lugar.
