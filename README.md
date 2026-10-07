@@ -97,7 +97,7 @@ Otimizar o manejo de água na agricultura familiar, reduzindo desperdícios de �
 
    * Acessa logs de conectividade e painel de diagnóstico de hardware.
 
-## 🧪 Critérios de Aceite (Exemplos BDD)
+## 🧪 Critérios de Aceite 
 
 ### US-01 — Cadastro de Talhões
 
