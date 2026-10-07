@@ -131,7 +131,7 @@ Otimizar o manejo de água na agricultura familiar, reduzindo desperdícios de �
 
 * **Responsável do Projeto:** Evanildo de Jesus Silva
 
-* **Cliente / Stakeholder:** Joaquim Rodrigues da Silva
 
-* **Data da Documentação:** 27/09/2026
+
+
 
